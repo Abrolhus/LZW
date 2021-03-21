@@ -1,7 +1,7 @@
 # LZW
 LZW compression algorithm in C++
 
-## Compilation
+## Compilation:
 ```g++ -std=c++11 -o lzw main.cpp```
 
 ## Usage:
